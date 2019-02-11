@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="JSFIntroduction:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSFIntroduction_Web</output-path>
+    <root id="archive" name="JSFIntroduction_Web.war">
+      <element id="artifact" artifact-name="JSFIntroduction:Web exploded" />
+    </root>
+  </artifact>
+</component>
